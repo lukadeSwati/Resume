@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.outer{
+    width:700px;
+    height: 800px;
+    margin:0px auto;
+}
+.outer h2{
+    text-align: center;
+}
+p{
+    font-size:15px;
+}
+.border{
+    width: 100%;
+    background-color: rgb(220, 221, 221);
+    padding: 1px;
+    text-align: center;
+    
+    border: 1px solid black;
+}
+h4{
+    float: right;
+}
